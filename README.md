@@ -1,5 +1,8 @@
 In this project, let's build an **Even Odd App** by applying the concepts we have learned till now.
 
+### Link to the page is given below:
+https://mkevenoddapp.ccbp.tech/
+
 ### Refer to the image below:
 
 <br/>
